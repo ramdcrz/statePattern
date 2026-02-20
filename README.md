@@ -71,3 +71,6 @@ Implement the State Pattern to improve code maintainability and flexibility:
 
 <p><b>Note:</b> No if-else or switch statements will be used for behavior execution within the VendingMachine action methods.</p>
 <p>See <b>VendingMachineDemo.java</b> class to test the machine and its state transitions.</p>
+
+## UML Diagram
+![alt text](https://github.com/ramdcrz/statePattern/blob/main/statePattern_UML.png)
